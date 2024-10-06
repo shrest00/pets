@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.petsList {
+    margin: 20px 0;
+}
+
+.selectPet {
+    margin-top: 20px;
+}
+
+.selectedPetInfo {
+    font-weight: bold;
+    margin-top: 10px;
+}
