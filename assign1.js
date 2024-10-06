@@ -4,31 +4,31 @@ const petsData = [
         petName: "Stella",
         age: 7,
         breed: "Dalmatian",
-        pic: "img/stella.png"
+        pic: "stella.png"
     },
     {
         petName: "Cody",
         age: 8,
         breed: "Corgi",
-        pic: "img/cody.png"
+        pic: "cody.png"
     },
     {
         petName: "Mango",
         age: 2,
         breed: "Persian",
-        pic: "img/mango.png"
+        pic: "mango.png"
     },
     {
         petName: "Lucy",
         age: 4,
         breed: "Ball Python",
-        pic: "img/lucy.png"
+        pic: "lucy.png"
     },
     {
         petName: "Buhmie",
         age: 1,
         breed: "Bulldog",
-        pic: "img/buhmie.png"
+        pic: "buhmie.png"
     }
  ];
  
